@@ -1,4 +1,4 @@
-package com.example.alert_service.congig;
+package com.example.alert_service.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

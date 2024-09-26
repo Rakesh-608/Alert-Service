@@ -2,6 +2,9 @@ spring:
   application:
     name: alert-service
 
+server:
+  port: 8300
+
 weatherbit:
   api:
     key: 9b048f06cc0449a095e8bfc3067db3aa
